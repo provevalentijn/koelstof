@@ -35,7 +35,7 @@ subtitle = ""
     # Hide "See all" link.
     enable = false
 
-design
+[design]
   columns = "2"
 
   # Toggle between the various page layout types.
