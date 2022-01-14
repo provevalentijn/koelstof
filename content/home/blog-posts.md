@@ -35,8 +35,8 @@ subtitle = ""
     # Hide "See all" link.
     enable = false
 
-[design]
-  columns = "3"
+design
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List
