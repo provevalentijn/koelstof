@@ -1,5 +1,5 @@
 ---
-widget: portfolio
+widget: pages
 headless: true
 active: true
 weight: 20
