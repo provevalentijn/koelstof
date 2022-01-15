@@ -6,7 +6,7 @@ weight: 20
 title: ''
 subtitle: ''
 content:
-  page_type: project
+  page_type: blog
   offset: 0
   order: desc
   filters:
