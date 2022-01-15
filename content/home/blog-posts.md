@@ -19,7 +19,7 @@ content:
     enable: false
 design:
   columns: '1'
-  view: 3
+  view: 5
   background: {}
   spacing: {}
 ---
