@@ -13,6 +13,8 @@ interval: false
 # Specify a height to ensure a consistent height for each slide.
 height: 300px
 
+---
+
 item:
   - title: Hello
     content: 'I am center aligned 😄'
@@ -42,4 +44,3 @@ item:
     overlay_color: '#333'
     overlay_img: ''
     overlay_filter: 0.5
----
