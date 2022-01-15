@@ -6,7 +6,7 @@ weight: 20
 title: ''
 subtitle: ''
 content:
-  page_type: blog
+  page_type: post
   offset: 0
   order: desc
   filters:
