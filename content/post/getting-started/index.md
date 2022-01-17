@@ -11,7 +11,7 @@ draft: false
 authors:
   - admin
   - 美杨
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 title: "Solarpunk: Het gras is groener in de toekomst"
 subtitle: ""
 date: 2020-11-02T15:00:00.000Z
@@ -24,10 +24,11 @@ categories:
   - 教程
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  caption: "Bron foto en omslagfoto: https://twitter.com/kaitan0908 "
   focal_point: ""
   placement: 2
   preview_only: false
+  filename: solarpunk_vierkant.jpg
 ---
 # De punk in Solarpunk
 
