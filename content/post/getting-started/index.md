@@ -9,19 +9,14 @@ summary: Wat als de toekomst er veel beter uit zal zien dan we denken? Wat als
   introductie.
 draft: false
 authors:
-  - admin
-  - 美杨
+  - Sien
 lastmod: 2020-12-13T00:00:00.000Z
 title: "Solarpunk: Het gras is groener in de toekomst"
 subtitle: ""
 date: 2020-11-02T15:00:00.000Z
 featured: false
-tags:
-  - Academic
-  - 开源
-categories:
-  - Demo
-  - 教程
+tags: []
+categories: []
 projects: []
 image:
   caption: "Bron foto en omslagfoto: https://twitter.com/kaitan0908 "
