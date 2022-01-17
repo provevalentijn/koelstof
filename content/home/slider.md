@@ -1,10 +1,10 @@
 ---
 widget: slider
 headless: true
-weight: 5
+weight: 50
 interval: false
 height: 300px
-widget_id: recent-posts
+widget_id: blog-posts
 design:
   background:
     color: "#fff409"
