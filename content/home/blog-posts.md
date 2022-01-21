@@ -18,7 +18,7 @@ content:
   archive:
     enable: false
 design:
-  columns: '1'
+  columns: '2'
   view: 5
   background: {}
   spacing: {}
