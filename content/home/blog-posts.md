@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: 'github.valentijnprove.articles'
 headless: true
 active: true
 weight: 20
