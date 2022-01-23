@@ -1,5 +1,5 @@
 ---
-widget: 'github.valentijnprove.articles'
+widget: 'github.provevalentijn.articles'
 headless: true
 active: true
 weight: 20
